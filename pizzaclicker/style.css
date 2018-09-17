@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: #B11F24;
+    color: #fff;
+}
+
+#img-content {
+    padding-top: 10%;
+}
+
+#content {
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 10%;
+}
+
+.download-btn {
+    margin-bottom: 12px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 4em;
+}
+
+.footer {
+    text-align: center;
+}
+
+a {
+    color: #F7931E;
+}
