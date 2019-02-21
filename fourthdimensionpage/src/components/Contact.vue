@@ -7,6 +7,9 @@
         <a href="mailto:contact@fourthdimesion.studio">
             <button class="btn btn-light"><font-awesome-icon icon="envelope"></font-awesome-icon> EMAIL</button>
         </a>
+        <a href="https://fourthdimension.itch.io" target="_BLANK">
+            <button class="btn btn-light"><font-awesome-icon icon="gamepad"></font-awesome-icon> itch.io</button>
+        </a>
         <a href="/devlog">
             <button class="btn btn-light"><font-awesome-icon icon="book"></font-awesome-icon> DEVLOG</button>
         </a>

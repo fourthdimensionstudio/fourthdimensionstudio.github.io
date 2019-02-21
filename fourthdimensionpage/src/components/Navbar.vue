@@ -16,6 +16,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://fourthdimension.itch.io" target="_BLANK">itch.io</a>
+                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="/devlog">Devlog</a>
                     </li>
