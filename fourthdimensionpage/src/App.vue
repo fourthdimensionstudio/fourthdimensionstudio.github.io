@@ -5,6 +5,8 @@
     <hr>
     <fourthdimension-games></fourthdimension-games>
     <hr>
+    <fourthdimension-assets></fourthdimension-assets>
+    <hr>
     <fourthdimension-contact></fourthdimension-contact>
     <fourthdimension-footer></fourthdimension-footer>
   </div>
@@ -14,6 +16,7 @@
 import Navbar from './components/Navbar.vue'
 import Header from './components/Header.vue'
 import Games from './components/Games.vue'
+import Assets from './components/Assets.vue'
 import Contact from './components/Contact.vue'
 import Footer from './components/Footer.vue'
 export default {
@@ -21,6 +24,7 @@ export default {
     'fourthdimension-navbar': Navbar,
     'fourthdimension-header': Header,
     'fourthdimension-games': Games,
+    'fourthdimension-assets': Assets,
     'fourthdimension-contact': Contact,
     'fourthdimension-footer': Footer,
   }
