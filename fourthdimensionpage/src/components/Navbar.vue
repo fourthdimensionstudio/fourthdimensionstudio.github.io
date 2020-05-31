@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">Fourth Dimension</a>
+            <a class="navbar-brand" href="#">fourthdimension</a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span>Menu</span>
@@ -11,10 +11,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#games">Games</a>
+                        <a class="nav-link" href="#games">games</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
+                        <a class="nav-link" href="#contact">contact</a>
                     </li>
 
                     <li class="nav-item">
@@ -22,7 +22,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/devlog">Devlog</a>
+                        <a class="nav-link" href="/devlog">devlog</a>
                     </li>
                     
                 </ul>

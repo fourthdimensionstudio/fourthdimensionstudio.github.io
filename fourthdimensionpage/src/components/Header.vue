@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <h1>FOURTH DIMENSION</h1>
-        <h2>Focusing on simple and fun games</h2>
+        <!-- <h2>Focusing on simple and fun games</h2> -->
     </div>
 </template>
 

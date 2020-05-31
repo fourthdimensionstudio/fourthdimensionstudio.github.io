@@ -1,6 +1,7 @@
 <template>
     <div id="games" class="container">
         <h1>Games</h1>
+        <a href="https://fourthdimension.itch.io/defensees"><img class="img-thumbnail" src="../assets/protectroguelike.png" alt="Defensees"></a>
         <a href="/pizzaclicker"><img class="img-thumbnail" src="../assets/pizzaclicker.png" alt="Pizza Clicker"></a>
         <a href="/spacejourney"><img class="img-thumbnail" src="../assets/spacejourney.png" alt="Space Journey"></a>
     </div>

@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <a href="#">Fourth Dimension Studio © 2019</a> is a work by <a href="http://gueepo.me/" target="_BLANK">Guilherme Oliveira</a>
+        <a href="#">Fourth Dimension Studio © 2020</a> is a work by <a href="http://gueepo.me/" target="_BLANK">Guilherme de Oliveira</a>
     </div>
 </template>
 
